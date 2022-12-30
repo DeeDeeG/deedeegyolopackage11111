@@ -1,0 +1,18 @@
+{
+  "name": "deedeegyolopackage11111",
+  "main": "./lib/deedeegyolopackage11111",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "deedeegyolopackage11111:toggle"
+  },
+  "repository": "https://github.com/DeeDeeG/deedeegyolopackage11111",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

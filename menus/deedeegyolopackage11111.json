@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle deedeegyolopackage11111",
+        "command": "deedeegyolopackage11111:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "deedeegyolopackage11111",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "deedeegyolopackage11111:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
